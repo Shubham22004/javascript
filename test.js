@@ -1,6 +1,5 @@
 let a=45
 let  b= "shubh"
 let c=null
-let city="noida"
-//ssf
+let city="pilibhit"
 console.table([a,b,c,city]);
